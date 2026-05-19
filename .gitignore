@@ -45,5 +45,3 @@ data/**
 !data/raw/price/.gitkeep
 !data/interim/.gitkeep
 !data/processed/.gitkeep
-
-msgca_hpsearch/
